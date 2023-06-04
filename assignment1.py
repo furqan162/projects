@@ -10,4 +10,4 @@ elif name == "amina":
     print("age of amina is 12")
     print("height of amina is 15.4")
 else:
-    print("not verified")
+    print("hello")

@@ -1,4 +1,3 @@
-
 first = input("First= ")
 second = input("Second= ")
 operator = input("operator=  ")
